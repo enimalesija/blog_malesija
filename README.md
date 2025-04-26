@@ -1,5 +1,6 @@
 
 # A.Malesija Django Blog
+![blog1](https://github.com/user-attachments/assets/a5dea2a5-cf58-4771-bb64-16cee6d5fb00)
 
 ## Table of Contents
 - [Project Setup](#project-setup)
